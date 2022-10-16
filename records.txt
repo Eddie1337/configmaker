@@ -1,0 +1,13 @@
+Naam,vlan,ip,bandwidth,switch,port
+user1,,140,101,,
+user2,,141,102,,
+user3,,142,103,,
+user4,,143,104,,
+user5,,144,105,,
+user6,,145,106,,
+user7,,146,107,,
+user8,,147,108,,
+user9,,148,109,,
+user0,,149,110,,
+user11,,150,111,,
+user12,,151,112,,
